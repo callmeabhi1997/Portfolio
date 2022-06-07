@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://statuesque-horse-9fbb71.netlify.app/" target="_blank">Abhishek.teck</a>
+  <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank">Abhishek.teck</a>
 </h2>
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
